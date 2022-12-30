@@ -1,0 +1,26 @@
+      PRN       STUDENT  NAME          Time
+b'202001104014 Shashank Vishwakarma' 14:14:04
+b'202001103115 Sumit jain' 14:14:09
+b'202001103114 Utkarsh kadam' 14:14:12
+b'202001104015 Tushar Rile' 14:14:23
+b'202001104015 Tushar Rile' 14:17:21
+b'202001104014 Shashank Vishwakarma' 14:17:24
+b'202001103115 Sumit jain' 14:17:30
+b'202001103114 Utkarsh kadam' 14:17:33
+b'202001103114 Utkarsh kadam' 08:54:00
+b'202001103115 Sumit jain' 08:54:05
+b'202001104015 Tushar Rile' 08:54:09
+b'202001104014 Shashank Vishwakarma' 08:54:13
+b'202001103114 Utkarsh kadam' 10:02:31
+b'202001103115 Sumit jain' 10:02:35
+b'202001104015 Tushar Rile' 10:02:38
+b'202001104014 Shashank Vishwakarma' 10:02:40
+b'202001103114 Utkarsh kadam' 21:13:18
+b'202001103115 Sumit jain' 21:13:23
+b'202001104015 Tushar Rile' 21:13:32
+b'202001104014 Shashank Vishwakarma' 21:13:36
+b'202001103114 Utkarsh kadam' 21:23:25
+b'202001103115 Sumit jain' 21:23:41
+b'X' 21:25:41
+b'202001104014 Shashank Vishwakarma' 21:26:05
+b'202001103114 Utkarsh kadam' 21:26:18
