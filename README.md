@@ -27,11 +27,11 @@ To use the Attendance Automation system, follow these steps:
 ```bash
 git clone https://github.com/Utkarsh-kadam/AAQR.git
 ```
-2.Run the application:
+2. Run the application:
 ```bash
 python gui.py
 ```
-4.Select the attendance type (new or update) and choose the subject.
+4. Select the attendance type (new or update) and choose the subject.
 
 5. If selecting "New Attendance," the system will create a new attendance report for the specified subject and start scanning QR codes to record attendance.
 
